@@ -1,0 +1,15 @@
+.background {
+  viewport-fill: fb-black;
+}
+.sec-hand {
+  y: -105;
+  fill: fb-light-gray;
+}
+.min-hand {
+  x: -4;
+  y: -108;
+}
+.hour-hand {
+  x: -6;
+  y: -67;
+}
